@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},8:function(e,n,t){},9:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),i=t(2),c=t.n(i);t(8);function l(){return r.a.createElement("div",{className:"App"},r.a.createElement("h1",null,"Cities Of The World"),r.a.createElement("div",{id:"wrapper"},r.a.createElement("div",{id:"thumbnails"})))}var o=document.getElementById("root");c.a.render(r.a.createElement(l,null),o)}},[[3,1,2]]]);
+//# sourceMappingURL=main.da8c351f.chunk.js.map
